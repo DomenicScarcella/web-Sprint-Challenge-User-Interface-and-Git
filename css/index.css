@@ -208,3 +208,14 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.about-content {
+    width: 96%;
+    padding: 0 2%;
+    padding-bottom: 20px; 
+}
+
+.learnButton {
+    
+}
